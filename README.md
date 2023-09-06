@@ -1,5 +1,5 @@
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunco25)](https://solved.ac/hyunco25/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunco25)](https://solved.ac/hyunco25/) ㅤ
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhyun1&layout=compact&theme=merko)
 
 <!--
