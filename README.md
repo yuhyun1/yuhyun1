@@ -1,12 +1,13 @@
 
 <div align="center">
   
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuhyun1&hide=contribs,stars&show_icons=true&include_all_commits=false&rank_icon=github&theme=catppuccin_latte"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuhyun1&hide=contribs,stars&show_icons=true&include_all_commits=false&rank_icon=github&theme=catppuccin_latte"/>
+<img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=hyunco25"/>
  
-<a href="https://solved.ac/profile/yuhyun1">
-	<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hyunco25"/>
-</a>
 </div>
+
+
+
   
 ---
 
